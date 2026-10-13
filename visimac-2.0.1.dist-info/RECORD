@@ -1,0 +1,13 @@
+../../Scripts/visimac.exe,sha256=xlYgZkUh_vcnA62DetoflGzuvh2iUPP3QWnqBoQOt4M,108371
+visimac-2.0.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+visimac-2.0.1.dist-info/METADATA,sha256=J9gMu5Ut9qEHCQf2UYIiJT0dB7pGnYLoT_mlqVfHVzc,8458
+visimac-2.0.1.dist-info/RECORD,,
+visimac-2.0.1.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+visimac-2.0.1.dist-info/WHEEL,sha256=Va1ecE4aQlcxybZkcSvh2FeN1_DlC8IaJNJJsCJYEj0,101
+visimac-2.0.1.dist-info/entry_points.txt,sha256=2I2diZFoB3ifk79VNe1gtJM1w2o6Qv0SwF3GHKmj9v4,50
+visimac-2.0.1.dist-info/top_level.txt,sha256=sDHtSUZ5kEOp5jvlIZZDDkRpOIslB9D5EZrcUCs-wSQ,8
+visimac/__init__.py,sha256=r3qm9u5la9NgeN8mQD21vq1VdNK0hdODXMmDEnqrt1o,50
+visimac/__main__.py,sha256=7ZpVXxNflZ7FELXDJUk7xt6laE0oNSMEXaWI_tCvxcE,75
+visimac/__pycache__/__init__.cpython-311.pyc,,
+visimac/__pycache__/__main__.cpython-311.pyc,,
+visimac/app_core.cp311-win_amd64.pyd,sha256=Ghcik2gE0c0nxg084G41pvkR5OVBWuz_2F2iYj-AWpg,940032

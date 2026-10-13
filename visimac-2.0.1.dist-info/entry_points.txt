@@ -1,0 +1,2 @@
+[console_scripts]
+visimac = visimac.app_core:main
